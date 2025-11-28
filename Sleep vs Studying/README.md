@@ -4,4 +4,6 @@
 
 
 
-Click the report for more
+Click the 
+[report](/report.pdf)
+ for more
