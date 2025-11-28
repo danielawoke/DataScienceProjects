@@ -5,5 +5,5 @@
 
 
 Click the 
-[report](Is revenge a child's game/report.pdf)
+[report](/report.pdf)
  for more
