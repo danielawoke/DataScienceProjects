@@ -5,5 +5,5 @@
 
 
 Click the 
-[report](https://github.com/danielawoke/DataScienceProjects/edit/main/Is revenge a child's game/report.pdf) 
+[report](github.com/danielawoke/DataScienceProjects/edit/main/Is revenge a child's game/report.pdf)
  for more
